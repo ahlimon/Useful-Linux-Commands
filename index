@@ -1,0 +1,2 @@
+## creating symlink of laravel public to storage in live server using Cron Jobs
+ln -s /home2/softnurs/public_html/traveltoromeitaly/storage/app/public/ /home2/softnurs/public_html/traveltoromeitaly/public
