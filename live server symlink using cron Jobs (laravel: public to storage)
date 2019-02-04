@@ -1,5 +1,5 @@
 ## creating symlink of laravel public to storage in live server using Cron Jobs
 *step1: login to cpnel. 
-*step2: From Advanced option select Cron Job paste the below command
+*step2: From Advanced option select Cron Job and paste the below command
 
 ln -s /home2/softnurs/public_html/traveltoromeitaly/storage/app/public/ /home2/softnurs/public_html/traveltoromeitaly/public
